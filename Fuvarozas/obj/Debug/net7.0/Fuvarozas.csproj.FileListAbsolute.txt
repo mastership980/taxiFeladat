@@ -1,0 +1,14 @@
+C:\Programming\Csharp\Fuvarozas\bin\Debug\net7.0\Fuvarozas.exe
+C:\Programming\Csharp\Fuvarozas\bin\Debug\net7.0\Fuvarozas.deps.json
+C:\Programming\Csharp\Fuvarozas\bin\Debug\net7.0\Fuvarozas.runtimeconfig.json
+C:\Programming\Csharp\Fuvarozas\bin\Debug\net7.0\Fuvarozas.dll
+C:\Programming\Csharp\Fuvarozas\bin\Debug\net7.0\Fuvarozas.pdb
+C:\Programming\Csharp\Fuvarozas\obj\Debug\net7.0\Fuvarozas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Csharp\Fuvarozas\obj\Debug\net7.0\Fuvarozas.AssemblyInfoInputs.cache
+C:\Programming\Csharp\Fuvarozas\obj\Debug\net7.0\Fuvarozas.AssemblyInfo.cs
+C:\Programming\Csharp\Fuvarozas\obj\Debug\net7.0\Fuvarozas.csproj.CoreCompileInputs.cache
+C:\Programming\Csharp\Fuvarozas\obj\Debug\net7.0\Fuvarozas.dll
+C:\Programming\Csharp\Fuvarozas\obj\Debug\net7.0\refint\Fuvarozas.dll
+C:\Programming\Csharp\Fuvarozas\obj\Debug\net7.0\Fuvarozas.pdb
+C:\Programming\Csharp\Fuvarozas\obj\Debug\net7.0\Fuvarozas.genruntimeconfig.cache
+C:\Programming\Csharp\Fuvarozas\obj\Debug\net7.0\ref\Fuvarozas.dll
